@@ -1,0 +1,50 @@
+data_stdin
+_audit_creation_method 'critic2'
+_audit_creation_date 2023-8-11
+_chemical_formula_sum 'C10 H8'
+_cell_formula_units_Z 4
+_cell_length_a         9.0270071349
+_cell_length_b         3.8675265400
+_cell_length_c        21.5949544577
+_cell_angle_alpha        90.0000
+_cell_angle_beta        89.6554
+_cell_angle_gamma        90.0000
+_cell_volume           753.913510
+_space_group_crystal_system monoclinic
+_space_group_IT_number 12
+_space_group_name_H-M_alt 'C2/m'
+_space_group_name_Hall '-C 2y'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+ 1 'x,y,z'
+ 2 '-x,-y,-z'
+ 3 '-x,-1/2+y,-z'
+ 4 'x,-1/2-y,z'
+ 5 '-1/2+x,-1/2+y,-3/4+z'
+ 6 '-1/2-x,-1/2-y,-3/4-z'
+ 7 '-1/2-x,y,-3/4-z'
+ 8 '-1/2+x,-y,-3/4+z'
+ 9 'x,y,-1/2+z'
+ 10 '-x,-y,-1/2-z'
+ 11 '-x,-1/2+y,-1/2-z'
+ 12 'x,-1/2-y,-1/2+z'
+ 13 '-1/2+x,-1/2+y,-1/4+z'
+ 14 '-1/2-x,-1/2-y,-1/4-z'
+ 15 '-1/2-x,y,-1/4-z'
+ 16 '-1/2+x,-y,-1/4+z'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1    C     0.88872225038214 0.74991644918357 0.81010947995590 
+C2    C     0.01987613001154 0.74993646973137 0.84244441999943 
+C3    C     0.01869896015407 0.74998225092982 0.90790235019681 
+C4    C     0.88637892983044 0.75000710919491 0.94006833007614 
+C5    C     0.74939503006498 0.74998500979905 0.90823817018655 
+H1    H     0.89013495994077 0.74988101051273 0.75965255005371 
+H2    H     0.12499345000819 0.74992034055958 0.81743565011858 
+H3    H     0.12289191946524 0.74999486881349 0.93305034985773 
+H4    H     0.88597960997767 0.75004354074840 0.99052815021812 

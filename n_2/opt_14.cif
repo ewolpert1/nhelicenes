@@ -1,0 +1,42 @@
+data_stdin
+_audit_creation_method 'critic2'
+_audit_creation_date 2023-8-11
+_chemical_formula_sum 'C10 H8'
+_cell_formula_units_Z 4
+_cell_length_a        11.3805799990
+_cell_length_b         5.3219045532
+_cell_length_c        11.8066996475
+_cell_angle_alpha        89.9985
+_cell_angle_beta        82.9996
+_cell_angle_gamma        90.0014
+_cell_volume           709.758039
+_space_group_crystal_system monoclinic
+_space_group_IT_number 14
+_space_group_name_H-M_alt 'P2_1/c'
+_space_group_name_Hall '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+ 1 'x,y,z'
+ 2 '-x,-y,-z'
+ 3 '-x,-1/2+y,-1/2-z'
+ 4 'x,-1/2-y,-1/2+z'
+ 5 '-1/2+x,y,z'
+ 6 '-1/2-x,-y,-z'
+ 7 '-1/2-x,-1/2+y,-1/2-z'
+ 8 '-1/2+x,-1/2-y,-1/2+z'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1    C     0.21502059026901 0.72623364999280 0.40983674999163 
+C2    C     0.31392830965837 0.72031251071734 0.32976877008658 
+C3    C     0.40593403025834 0.89762872947432 0.33453529977181 
+C4    C     0.39713691000620 0.07902323939766 0.41857135981612 
+C5    C     0.29650186989149 0.09040730926536 0.50218373961371 
+H1    H     0.14442993995383 0.58911113068755 0.40661232957631 
+H2    H     0.32051300965465 0.57904497926869 0.26257492980508 
+H3    H     0.48413014036403 0.88976508974074 0.27157147989332 
+H4    H     0.46797113014149 0.21506774014728 0.42300676023259 
